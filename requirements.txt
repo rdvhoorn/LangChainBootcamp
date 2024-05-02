@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+streamlit
+faiss-cpu
+beautifulsoup4
+wikipedia
