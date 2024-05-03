@@ -10,6 +10,7 @@ from langchain_openai import ChatOpenAI
 
 import streamlit as st
 
+# If you want to incorporate LangSmith, uncomment and fill in the LangSmith key and project name.
 # os.environ["LANGCHAIN_TRACING_V2"] = 'true'
 # os.environ["LANGCHAIN_API_KEY"] = '...'
 # os.environ["LANGCHAIN_PROJECT"] = "..."
@@ -21,6 +22,7 @@ import streamlit as st
 import os
 os.environ['OPENAI_API_KEY'] = ''
 
+# Provide some basic streamlit interface components.
 st.title("Basic streamlit example")
 
 chat_input = st.chat_input("What do you want to know about langchains API reference page?")
@@ -51,7 +53,7 @@ def retrieve_langchain_API_info(question):
 
     return retrieval_chain.invoke({'input': question})
 
-
+# Call the retrieval function if there is a chatinput, and output the response.
 if chat_input:
     response = retrieve_langchain_API_info(chat_input)
 
