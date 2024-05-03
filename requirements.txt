@@ -4,3 +4,4 @@ streamlit
 faiss-cpu
 beautifulsoup4
 wikipedia
+ipykernel
