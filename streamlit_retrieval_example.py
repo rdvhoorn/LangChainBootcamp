@@ -10,6 +10,9 @@ from langchain_openai import ChatOpenAI
 
 import streamlit as st
 
+# os.environ["LANGCHAIN_TRACING_V2"] = 'true'
+# os.environ["LANGCHAIN_API_KEY"] = '...'
+# os.environ["LANGCHAIN_PROJECT"] = "..."
 
 ####
 # Make sure you have set your environment variables.
