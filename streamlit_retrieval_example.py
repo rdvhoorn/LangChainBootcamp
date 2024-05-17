@@ -12,9 +12,9 @@ import streamlit as st
 import os
 
 # If you want to incorporate LangSmith, uncomment and fill in the LangSmith key and project name.
-os.environ["LANGCHAIN_TRACING_V2"] = 'true'
-os.environ["LANGCHAIN_API_KEY"] = '...'
-os.environ["LANGCHAIN_PROJECT"] = "tiny-hacking"
+# os.environ["LANGCHAIN_TRACING_V2"] = 'true'
+# os.environ["LANGCHAIN_API_KEY"] = '...'
+# os.environ["LANGCHAIN_PROJECT"] = "tiny-hacking"
 
 ####
 # Make sure you have set your environment variables.
