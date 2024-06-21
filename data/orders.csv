@@ -1,0 +1,201 @@
+OrderID,CustomerID,OrderDate,ShippingAddress,TotalAmount,OrderStatus
+1,60,2024-05-26 07:56:16,"70775 Wallace Rapid, Marthamouth, VA 26460",337.89,Pending
+2,73,2024-05-21 09:39:58,"88503 Russell Stream Apt. 398, South Michaelmouth, MA 42958",261.97,Shipped
+3,15,2024-05-11 03:25:34,"66666 Sanders Station Suite 345, Lake Paulchester, PA 57570",264.16,Pending
+4,2,2024-06-06 10:49:36,"46605 Melissa Camp Suite 480, West Seanhaven, NY 61666",86.66,Shipped
+5,66,2024-01-28 02:35:26,"658 Scott Spring Apt. 393, Robertsmouth, NH 28079",99.74,Shipped
+6,64,2024-03-24 21:17:18,"4038 Alan Locks Suite 521, Jeremyview, SD 23217",141.89,Delivered
+7,52,2024-03-09 21:08:54,"018 Nash Falls Apt. 703, South Suzanne, NJ 10117",273.44,Delivered
+8,68,2024-02-15 15:27:21,"471 Karen Meadows, West Joanneborough, DC 52650",337.34,Delivered
+9,97,2024-05-10 14:18:52,"550 John Center Apt. 930, Madisonburgh, PA 21334",165.55,Delivered
+10,89,2024-06-06 21:37:29,"599 Lisa Garden, Gilmorechester, NC 79452",402.85,Shipped
+11,11,2024-01-27 16:10:25,"4150 Blanchard Extension Suite 057, Lake Lucas, MP 79690",362.49,Delivered
+12,9,2024-04-24 18:34:09,"643 Clark Views Suite 850, West Lindsey, OR 19150",363.54,Delivered
+13,14,2024-06-15 07:24:05,"53013 Holly Mall, Wendyborough, ND 89489",460.56,Pending
+14,90,2024-03-31 06:50:38,"7983 Rebecca Oval, New Jeanne, CA 97677",493.4,Pending
+15,47,2024-04-29 08:27:35,"53400 Melissa Fords, Russellborough, MH 50762",162.65,Shipped
+16,50,2024-02-01 13:45:08,"22060 Amanda Mill Suite 540, Lake Kevin, ND 24164",125.46,Pending
+17,30,2024-04-18 07:59:35,"0820 Alvarado Orchard Suite 552, New Wendyborough, WY 01642",131.42,Pending
+18,70,2024-02-17 18:15:15,"45252 Carlson Station Apt. 047, North Roberttown, OH 54185",333.82,Shipped
+19,55,2024-03-10 19:08:19,"2611 Priscilla Walk Suite 643, Gregorytown, KY 76609",368.63,Delivered
+20,30,2024-06-17 23:41:22,"0113 Smith Terrace Apt. 716, Patrickborough, ME 46792",133.32,Pending
+21,97,2024-02-07 21:55:44,"216 Sherman Trail Suite 633, Calderonborough, SD 60087",89.95,Shipped
+22,11,2024-03-23 09:43:29,"2388 Walker Crossing, North Marco, CO 46169",236.64,Shipped
+23,32,2024-01-16 16:42:24,"807 Bridget Fort, West Cynthia, AK 11728",382.89,Delivered
+24,10,2024-02-10 23:42:18,"7515 William Lakes Apt. 219, Jenniferborough, NH 81816",107.98,Delivered
+25,15,2024-01-20 01:45:24,"9023 Allen Extension, Port Biancafurt, WV 74563",298.84,Shipped
+26,51,2024-01-21 06:14:23,"3390 Megan Stream, New Brad, OR 99450",148.47,Pending
+27,24,2024-06-20 11:43:44,"56553 Mandy Keys, North Robert, RI 39240",489.34,Shipped
+28,1,2024-04-12 21:09:04,"59788 Hickman Glen, Bruceburgh, PW 94355",175.95,Delivered
+29,51,2024-03-09 07:14:36,"4727 Denise Knolls, South Michael, AR 93352",195.99,Pending
+30,24,2024-03-05 09:22:43,"3495 Gabriel Court, East Carlos, OR 10474",173.11,Shipped
+31,13,2024-04-18 01:30:13,"18319 Robinson Turnpike, East Stephanieberg, SC 35211",243.85,Delivered
+32,98,2024-01-25 20:20:19,"935 Janet Center, Lake Haley, NM 78204",436.75,Delivered
+33,77,2024-02-25 10:15:52,"17870 Mccall Canyon Apt. 754, Devinville, WV 30884",351.49,Pending
+34,7,2024-06-05 21:27:43,"876 Watson Mount, Bellside, KY 78265",354.35,Pending
+35,6,2024-03-21 06:43:21,"6296 Rowe Hills Suite 829, East Stevenstad, WA 88188",492.81,Pending
+36,66,2024-02-17 01:00:59,"13492 James Meadow Apt. 956, Anthonytown, WA 81863",168.75,Delivered
+37,83,2024-03-17 13:35:01,"7975 Reyes Via, North Rick, OH 91610",342.84,Shipped
+38,10,2024-01-21 15:15:20,"72847 Kevin Turnpike Apt. 631, Jonesstad, IA 09080",428.24,Shipped
+39,21,2024-01-21 21:12:05,"462 Logan Viaduct, Colliermouth, MP 97339",98.1,Pending
+40,69,2024-05-19 06:03:34,"76377 Jackson Overpass Apt. 782, West Carl, GU 17823",221.31,Delivered
+41,7,2024-02-26 14:12:44,"3423 Simmons Gateway Suite 411, Nelsonland, WV 27165",252.43,Pending
+42,52,2024-01-18 15:15:06,"23140 Cameron Mews, West Feliciaville, MN 39091",425.11,Pending
+43,52,2024-06-06 19:45:02,"PSC 1604, Box 0049, APO AP 41896",359.85,Pending
+44,93,2024-02-19 16:14:06,"6408 Robin Light, Whitneyville, NJ 98934",33.93,Pending
+45,97,2024-01-28 15:38:02,"871 Armstrong Flats Apt. 412, West Daniel, WI 96477",465.05,Delivered
+46,32,2024-01-19 02:53:48,"833 Natasha Divide, North Cody, VI 89084",259.46,Pending
+47,88,2024-02-16 13:58:53,"5734 Anne Flats Suite 331, Hopkinsport, NH 52527",313.85,Delivered
+48,28,2024-06-03 08:01:57,"747 Phillip Manors Suite 307, Sandraburgh, AR 65471",344.36,Pending
+49,42,2024-06-18 22:40:14,"457 Mikayla Knolls Suite 194, Johnsontown, AZ 89465",22.85,Shipped
+50,16,2024-02-09 07:38:58,"63733 Wang Burg, East Sandy, GU 38787",217.4,Shipped
+51,51,2024-01-24 20:00:50,"USCGC Jones, FPO AE 58023",298.63,Pending
+52,9,2024-04-12 09:30:09,"541 Garcia Manor, New Alanburgh, NM 50548",455.87,Delivered
+53,24,2024-03-21 01:35:54,"36089 John Turnpike Suite 056, Theresaton, OK 58406",26.69,Shipped
+54,89,2024-02-14 18:42:52,"09269 Alison Junction Suite 148, Andersonshire, DC 85535",433.12,Pending
+55,67,2024-03-04 02:54:09,"8583 Emma Prairie, South Austinstad, AZ 95484",406.25,Delivered
+56,37,2024-06-03 15:02:46,"5998 Corey Spurs, New Stephenfurt, KY 77404",214.54,Pending
+57,32,2024-06-19 23:41:55,"09724 Parker Plains Apt. 181, Wilsonmouth, AS 76997",332.53,Shipped
+58,19,2024-05-16 04:49:10,"3619 Carrillo Path, New Kyle, DC 29801",148.58,Delivered
+59,34,2024-03-11 21:09:28,"PSC 5643, Box 1660, APO AP 26960",226.42,Pending
+60,55,2024-03-29 22:22:22,"2479 Amy Station, Evansville, ME 77208",319.29,Pending
+61,29,2024-04-18 10:17:09,"9207 Samantha Stravenue, Lake Markland, UT 60842",414.4,Delivered
+62,47,2024-06-05 09:12:31,"905 Barron Street, Bradytown, HI 20141",440.99,Pending
+63,31,2024-02-29 08:42:25,"335 Audrey Ridge, Rhondamouth, AR 86906",490.78,Delivered
+64,23,2024-06-01 09:47:35,"1628 Tapia Coves, South Jennifershire, TN 19808",487.21,Delivered
+65,96,2024-05-17 17:07:21,"906 Curry Creek, Barnettborough, MT 10035",367.64,Shipped
+66,23,2024-02-27 18:50:55,"240 Leonard Parks, South Susan, OH 98758",441.47,Delivered
+67,13,2024-03-23 16:59:56,"989 Sara Overpass, Jenniferton, WV 85667",445.74,Shipped
+68,91,2024-04-19 13:28:52,"949 Mills Run, South Felicia, NM 32124",55.54,Delivered
+69,9,2024-01-22 22:52:27,"62818 Debbie Course, Ayersfort, MI 25408",441.69,Delivered
+70,49,2024-01-11 01:48:00,"562 Lozano Field, Port Ronald, HI 79822",344.31,Pending
+71,64,2024-03-06 08:15:05,"PSC 2070, Box 3808, APO AA 13831",430.33,Pending
+72,14,2024-03-15 18:03:06,"4595 Angela Neck, South Josestad, VT 63727",481.5,Delivered
+73,59,2024-03-28 23:37:38,"98943 Warren Square Apt. 356, Zhangville, MN 41235",314.76,Shipped
+74,11,2024-04-29 00:33:29,"94435 Thompson Mews, New Michelle, MI 86241",311.89,Shipped
+75,46,2024-01-08 23:27:40,"9469 Price Gardens, New Nathan, NC 64380",215.1,Shipped
+76,61,2024-05-05 18:22:35,"5075 Andrea Crest Suite 433, Williamtown, MO 77976",43.97,Shipped
+77,32,2024-03-13 09:54:26,"6610 Melanie Spur, Port Adam, ID 35576",429.09,Delivered
+78,54,2024-02-26 02:19:42,"586 Martin Wall Apt. 467, Darrellfurt, VA 17492",176.73,Shipped
+79,56,2024-03-29 03:20:21,"PSC 4253, Box 8108, APO AP 49098",176.39,Delivered
+80,26,2024-02-02 07:36:25,"96482 Johnson Shores Apt. 580, Youngmouth, OK 08170",123.14,Pending
+81,17,2024-01-09 10:09:57,"68067 Owens Stream Suite 250, Walkerburgh, UT 76643",179.11,Pending
+82,10,2024-01-29 16:51:03,"PSC 8065, Box 3636, APO AE 06541",258.44,Shipped
+83,27,2024-05-09 08:02:51,"319 Novak Crest, Port Laurenmouth, MP 28866",392.8,Shipped
+84,20,2024-02-11 15:36:40,"290 Vanessa Turnpike Suite 132, Cardenasville, MS 54993",467.24,Delivered
+85,77,2024-05-29 20:23:07,"493 Mercado Views Apt. 548, East Kimberlyland, AZ 52255",355.12,Pending
+86,21,2024-01-06 03:40:03,"41285 Amanda Haven, Hernandezbury, TX 30399",428.74,Pending
+87,93,2024-05-19 01:50:11,"40253 Hall Harbor, New Aaronhaven, NJ 41764",440.25,Shipped
+88,60,2024-05-14 12:36:55,"76982 Ryan Rapids Apt. 011, East Kimberlyport, NC 76771",90.81,Shipped
+89,60,2024-01-13 17:57:09,"2879 Leonard Forks, Crystalfort, FM 20926",279.74,Delivered
+90,70,2024-03-02 11:00:48,"8276 Walsh Prairie Apt. 058, Alexanderborough, NE 10778",477.14,Shipped
+91,74,2024-03-23 02:10:00,"85343 Rodriguez Cliff, Andersonview, DE 57641",390.29,Delivered
+92,10,2024-03-26 02:04:19,"48053 Pamela Skyway Apt. 910, New Donnaland, DE 62360",151.87,Shipped
+93,91,2024-02-06 11:12:41,"9003 Charles Lane, East Jennifer, OR 67462",261.37,Pending
+94,95,2024-03-14 08:09:02,"USCGC Davila, FPO AE 42417",332.13,Pending
+95,12,2024-06-19 06:06:12,"43618 Madden Forge, Robertshaven, NJ 62138",331.74,Shipped
+96,5,2024-05-22 04:59:49,"8527 Kristen Branch Suite 757, Davidbury, OK 03951",24.82,Shipped
+97,19,2024-01-12 18:23:47,"0336 William Canyon Suite 884, Lewischester, MI 89654",274.85,Pending
+98,70,2024-02-28 21:49:02,"3600 Wallace Divide, Craigstad, NH 69236",37.49,Pending
+99,76,2024-03-13 20:29:42,"2276 Vance Fort Apt. 507, Hendrixport, OR 22246",211.65,Shipped
+100,91,2024-02-09 21:35:30,"669 Clay Turnpike Suite 452, West Maryshire, CA 84211",70.52,Delivered
+101,60,2024-01-27 23:16:10,"3014 Mendoza Village, West Cindyfort, UT 53463",452.72,Shipped
+102,27,2024-05-11 19:54:58,"0055 Stephanie Viaduct Apt. 197, Kendraburgh, MI 67336",376.02,Delivered
+103,13,2024-01-05 22:19:34,"80605 Smith Road, Lake Mariechester, WA 97939",471.6,Delivered
+104,57,2024-03-10 09:53:27,"500 Alyssa Trace Suite 034, Port Daniel, MA 69830",446.53,Delivered
+105,92,2024-03-14 08:26:24,"3311 Tara Shoal Apt. 005, Port Randy, IN 85445",311.84,Pending
+106,22,2024-03-04 18:14:36,"129 Meghan Alley Apt. 732, New Deborahhaven, DC 46974",208.72,Shipped
+107,28,2024-04-27 12:56:26,"USNS Hansen, FPO AE 11199",319.28,Delivered
+108,30,2024-05-04 02:16:09,"6214 Hayley Ranch Suite 697, Carlport, DE 00880",396.43,Shipped
+109,60,2024-02-06 18:54:32,"068 Alyssa Isle, South Christopherhaven, WA 46072",31.11,Delivered
+110,96,2024-02-08 10:45:49,"447 Long Port, Jacquelineberg, MS 91763",179.92,Shipped
+111,61,2024-05-20 11:56:01,"Unit 6322 Box 7532, DPO AE 15627",253.37,Pending
+112,45,2024-06-19 21:06:22,"1038 Soto Ways, Gutierrezland, GU 74996",474.38,Pending
+113,89,2024-03-21 01:00:41,"53753 John Square Apt. 969, Markside, MS 01128",73.84,Pending
+114,15,2024-02-06 21:22:00,"391 Rachel Mountain, Guerratown, HI 83608",276.29,Delivered
+115,90,2024-04-30 03:18:44,"75371 Rocha Lodge, East Brian, NE 27354",110.13,Pending
+116,90,2024-05-12 23:44:51,"224 Mary Islands Suite 560, East Brianna, OR 21361",477.98,Shipped
+117,11,2024-02-12 11:26:42,"5219 Holden Shores Suite 489, Belindatown, PA 94859",439.38,Pending
+118,83,2024-04-22 02:06:53,"USNV Mason, FPO AP 49680",214.4,Pending
+119,66,2024-01-15 01:33:41,"277 Williams Motorway Suite 947, East Davidshire, KS 36906",457.89,Shipped
+120,65,2024-04-15 11:47:57,"21848 Derek Lodge Apt. 890, Charlesport, AK 67355",141.35,Delivered
+121,64,2024-05-20 11:00:03,"051 Reeves Court, East Zachary, GA 49730",194.07,Shipped
+122,65,2024-06-03 16:02:22,"7201 Franklin Tunnel, Glennbury, PA 95649",93.28,Shipped
+123,31,2024-05-27 09:27:56,"289 Tim Skyway, Cochranstad, MI 51603",216.99,Pending
+124,6,2024-03-02 15:53:58,"154 Tiffany Circle Apt. 466, Michaelborough, WI 61983",62.07,Delivered
+125,30,2024-03-27 20:20:05,"52396 Bryan Tunnel, Port Colleen, WV 67529",69.99,Shipped
+126,85,2024-03-29 03:44:21,"69480 Anthony Creek Suite 690, South Kara, NJ 91968",458.67,Shipped
+127,41,2024-05-21 19:34:04,"165 Carroll Valley, Lake Michelleburgh, IN 08894",406.18,Delivered
+128,22,2024-04-03 05:41:55,"367 Ball Hollow, Harrishaven, CA 95032",407.72,Delivered
+129,84,2024-02-04 19:51:09,"USS Miller, FPO AA 90779",25.08,Delivered
+130,15,2024-06-04 23:07:34,"621 Kayla Junctions, Lake Tracy, FL 87256",147.51,Shipped
+131,72,2024-02-10 13:31:12,"PSC 2225, Box 5020, APO AE 90097",260.13,Shipped
+132,37,2024-03-29 22:52:12,"39599 Bradley Circles Apt. 775, East Lucas, NY 69361",65.72,Delivered
+133,69,2024-03-29 07:41:48,"Unit 7805 Box 9090, DPO AE 55879",94.37,Delivered
+134,42,2024-05-15 20:47:08,"729 Kelly Trail Suite 664, Lovemouth, VI 75467",124.89,Pending
+135,95,2024-04-17 08:05:59,"267 David Locks Apt. 401, Cainview, DC 71545",174.49,Pending
+136,96,2024-04-03 06:54:25,"5189 Quinn Dale Apt. 384, Waltonshire, IA 70112",41.59,Pending
+137,61,2024-05-08 01:17:29,"72617 Caitlin Corners, South Soniaborough, KY 22013",244.89,Shipped
+138,91,2024-03-18 20:05:08,"63782 Edward Green Apt. 790, North Robertburgh, NV 74400",230.45,Pending
+139,42,2024-03-15 05:15:00,"4265 Flores Cliffs, New Brandon, NY 10366",284.02,Shipped
+140,81,2024-04-30 11:33:02,"423 Andersen Forest Apt. 174, Grahamtown, OK 75534",347.49,Delivered
+141,62,2024-06-12 04:20:17,"56460 Matthew Falls, New John, AL 54385",269.23,Pending
+142,97,2024-05-24 11:19:28,"PSC 1927, Box 7394, APO AP 01252",166.4,Shipped
+143,24,2024-02-27 05:31:53,"66027 Kimberly Ville Apt. 180, Arnoldmouth, MH 95631",90.07,Shipped
+144,42,2024-01-09 11:18:57,"4161 Berger Knoll, Lake Edwinton, UT 30338",257.61,Delivered
+145,80,2024-05-18 19:16:23,"56248 Jeremy Street Suite 480, Lucasfurt, HI 91716",441.75,Delivered
+146,72,2024-04-28 21:43:15,"478 Daniel Loaf, Lake Jimfort, OR 73032",230.19,Pending
+147,47,2024-03-03 16:59:20,"PSC 9093, Box 0182, APO AA 42954",219.38,Pending
+148,49,2024-04-16 13:24:47,"Unit 4359 Box 3379, DPO AP 44958",223.63,Delivered
+149,21,2024-04-16 03:58:30,"4920 Keith Turnpike, Amandamouth, KY 55587",160.38,Pending
+150,3,2024-05-23 01:37:43,"78983 Johnson Cape, Thomasmouth, NC 33304",429.38,Pending
+151,14,2024-02-05 23:20:13,"7729 Troy Ways Apt. 339, Davidton, AS 43693",147.53,Shipped
+152,21,2024-05-30 11:21:11,"461 Kim Knoll, Lauramouth, CA 93688",461.6,Pending
+153,91,2024-02-13 16:11:12,"6617 Kimberly Inlet Apt. 247, Collierburgh, MO 88537",180.12,Pending
+154,88,2024-01-24 02:35:13,"3513 Brown Summit, Hillberg, MP 13199",304.41,Shipped
+155,41,2024-05-06 13:38:44,"6549 Ronald Hollow, West Linda, VT 14814",104.8,Delivered
+156,14,2024-02-06 04:09:54,"75608 Lewis Loaf, Port Nicholasborough, MD 53210",36.59,Pending
+157,4,2024-03-09 15:05:06,"00913 Evans Springs, New Rickyfurt, NJ 43241",260.92,Delivered
+158,60,2024-04-21 03:15:53,"12967 Olson Greens, South Christianchester, VI 85222",109.27,Shipped
+159,25,2024-03-08 03:12:32,"95385 Barry Drives, New David, AZ 76665",226.64,Delivered
+160,20,2024-01-04 18:44:49,"44854 Jennifer Heights Apt. 310, East Brandonport, OK 32438",282.06,Delivered
+161,96,2024-02-05 02:59:34,"PSC 8637, Box 0611, APO AE 75935",498.26,Pending
+162,12,2024-01-15 14:56:51,"Unit 4075 Box 0977, DPO AA 92765",77.47,Delivered
+163,75,2024-04-17 09:15:32,"02405 Terrence Loop, Williamsonville, ID 60578",494.4,Pending
+164,9,2024-02-15 17:03:10,"0165 Sanders Mission, Lindaland, OK 91697",275.58,Pending
+165,33,2024-03-11 00:25:35,"67103 Snyder Club Suite 069, Justinfort, CA 21025",358.14,Delivered
+166,48,2024-03-17 13:56:33,"2564 Crawford Terrace, Andrewview, AZ 50788",218.79,Pending
+167,90,2024-05-15 02:37:35,"50642 West Village Suite 831, Stacyberg, TX 97269",270.07,Delivered
+168,85,2024-04-17 15:29:56,"PSC 1085, Box 7001, APO AA 94135",414.62,Pending
+169,11,2024-01-12 22:14:14,"33795 Cameron Ranch Apt. 821, Melissaburgh, AK 11593",25.62,Pending
+170,30,2024-03-10 11:12:03,"6317 Kim Valleys Apt. 542, Thompsontown, MH 76116",418.81,Pending
+171,6,2024-05-23 06:38:55,"8552 Lee Rapids, West Lori, AZ 69518",34.94,Delivered
+172,80,2024-04-17 16:53:22,"075 Williams Radial, Rebeccaton, TN 32564",314.8,Shipped
+173,43,2024-04-21 09:55:53,"021 Little Square Suite 305, Stephenbury, OK 18190",315.65,Shipped
+174,33,2024-06-07 04:42:12,"652 Merritt Knoll, New Aliciamouth, OR 60422",134.7,Delivered
+175,3,2024-05-02 04:57:43,"725 Travis Pines, Andrewville, WV 10994",173.17,Pending
+176,18,2024-03-25 02:23:17,"017 Taylor Parkways Apt. 489, Lake Denisechester, CT 13093",367.34,Shipped
+177,43,2024-01-30 14:00:38,"05942 Brandon Streets Apt. 460, Nelsonview, WY 39637",397.9,Pending
+178,30,2024-02-23 07:48:02,"326 William Path, Hallton, HI 41086",285.03,Delivered
+179,28,2024-01-17 15:58:59,"0139 Shields Stream Suite 152, Fowlerview, MI 69406",268.24,Delivered
+180,13,2024-06-21 07:22:22,"13522 Emily Street, Youngborough, MH 90547",424.86,Delivered
+181,15,2024-01-06 22:47:01,"5972 Johnson Court, Kimberlyton, MH 36402",132.08,Shipped
+182,44,2024-03-18 18:41:49,"03910 Rhonda Extension, Port Reginaton, PR 27584",437.03,Pending
+183,14,2024-05-08 13:55:53,"PSC 7714, Box 9837, APO AP 82108",236.57,Pending
+184,5,2024-04-01 05:37:22,"362 Kevin Place Suite 251, Brettmouth, MA 60796",374.7,Pending
+185,88,2024-01-23 02:57:10,"PSC 0926, Box 2290, APO AP 07780",469.87,Delivered
+186,54,2024-04-30 09:52:58,"474 Moore Road, East Anita, NY 48048",238.61,Shipped
+187,17,2024-05-23 07:27:55,"USS Carpenter, FPO AE 12174",230.08,Delivered
+188,57,2024-05-30 05:19:43,"Unit 8134 Box 3447, DPO AE 65110",72.01,Delivered
+189,31,2024-02-15 19:56:27,"304 Pamela Loaf Apt. 067, New Johnfort, NH 83806",146.39,Pending
+190,59,2024-05-03 06:36:00,"6427 Brenda Prairie Apt. 633, Heatherton, NE 82925",468.31,Delivered
+191,1,2024-04-25 09:08:27,"86936 Cristina Dale Apt. 928, Butlertown, UT 58147",490.53,Delivered
+192,40,2024-04-23 11:12:25,"47805 Carol Islands, Emilyton, PR 49073",387.77,Pending
+193,88,2024-03-13 17:49:06,"202 Robert Fords, Boonemouth, AR 02032",473.06,Shipped
+194,63,2024-03-15 07:15:35,"6767 Ward Ford Apt. 182, Port Courtney, MS 00778",433.23,Shipped
+195,72,2024-04-14 08:37:33,"97522 Watkins Plains, East Barbaratown, MS 21707",394.76,Shipped
+196,45,2024-05-04 13:52:07,"826 Ochoa Ramp Suite 606, Patriciamouth, VA 60234",396.19,Shipped
+197,98,2024-01-14 10:07:50,"05104 Matthew Stravenue, West Rachel, VT 99039",54.48,Delivered
+198,79,2024-02-11 22:28:01,"USS Williams, FPO AP 77108",135.63,Pending
+199,41,2024-02-27 06:27:23,"PSC 6912, Box 1427, APO AP 46327",72.34,Pending
+200,25,2024-02-12 19:39:54,"58376 Martinez Dale, Kristinshire, KY 04748",66.67,Shipped
